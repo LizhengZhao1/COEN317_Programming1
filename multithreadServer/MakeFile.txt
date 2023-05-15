@@ -1,0 +1,9 @@
+Compile Instructions
+
+Instructions for running program:
+Java Runtime Environment is required.
+1. Compile this program first
+javac Server.java
+2 Run this program with command line options:
+java Server -document_root <$DOCUMENT_ROOT> -port <$PORT>
+eg: java Server -document_root "/Users/mac/Idea-workspace/multithreadServer" -port 8080
