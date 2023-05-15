@@ -1,5 +1,5 @@
 Name & Student ID:
-Lizheng Zhao W1608646
+Lizheng Zhao
 
 Assignment Name:
 COEN 317 Programming Assignment 1
